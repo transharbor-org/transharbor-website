@@ -117,7 +117,3 @@ Organizers implement passed proposals with regular progress updates.
 **Governance questions:** governance@transharbor.org
 
 **Support:** support@transharbor.org
-
----
-
-TransHarbor is **your platform** — collectively owned, democratically governed, and dedicated to serving trans and nonbinary community.
