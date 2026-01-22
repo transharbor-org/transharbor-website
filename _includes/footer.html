@@ -4,13 +4,13 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+      <div class="footer-col">
         <ul class="contact-list">
           <li><a href="{{ '/privacy' | relative_url }}">Privacy Policy</a></li>
           <li><a href="{{ '/terms' | relative_url }}">Terms of Service</a></li>
         </ul>
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
