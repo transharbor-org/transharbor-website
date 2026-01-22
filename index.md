@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-page
 title: Welcome to TransHarbor
 ---
 
@@ -26,17 +26,5 @@ title: Welcome to TransHarbor
 <p style="margin: 1rem 0;"><strong>Governance</strong> – Active members vote on decisions</p>
 
 <p style="margin-top: 1.5rem;"><strong>Coming Soon:</strong> iOS, Android, Web</p>
-
-<hr style="margin: 2rem 0;">
-
-<p>
-<a href="/about">About</a> •
-<a href="/guidelines">Guidelines</a> •
-<a href="/governance">Governance</a>
-</p>
-<p>
-<a href="/privacy">Privacy</a> •
-<a href="/terms">Terms</a>
-</p>
 
 </div>

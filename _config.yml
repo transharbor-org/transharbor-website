@@ -1,21 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-
 # Site settings
 title: TransHarbor
 email: contact@transharbor.org
 description: >-
   A user-owned, nonprofit community platform for trans and nonbinary people.
   Democratically governed with personals, messaging, and community voting.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://transharbor.org" # the base hostname & protocol for your site
-
-# Social links
-github_username: transharbor
+baseurl: ""
+url: "https://transharbor.org"
 
 # Build settings
 theme: minima
@@ -29,45 +19,19 @@ header_pages:
   - about.md
   - guidelines.md
   - governance.md
-  - privacy.md
-  - terms.md
 
-# Theme configuration
+# Social links
 minima:
   social_links:
-    github: transharbor
-
-# Collections
-collections:
-  resources:
-    output: true
-    permalink: /:collection/:name/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "TransHarbor Community"
-  - scope:
-      path: ""
-      type: "resources"
-    values:
-      layout: "page"
+    github: transharbor-org
 
 # Exclude from processing
 exclude:
   - .sass-cache/
   - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor/
   - README.md
   - LICENSE
