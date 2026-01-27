@@ -18,6 +18,7 @@ title: Welcome to TransHarbor
 <p style="font-size: 1.1rem; margin: 1.5rem 0;">Nonprofit, democratically-governed community platform with posts, messaging, and voting.</p>
 
 <p><strong>User-Owned</strong> • <strong>Trans-Centered</strong> • <strong>Privacy-First</strong> • <strong>Democratic</strong> • <strong>Nonprofit</strong></p>
+<p><strong>Security-Focused</strong> • <strong>Open-Source</strong></p>
 
 <h3 style="margin-top: 2rem;">Features</h3>
 
