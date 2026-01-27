@@ -8,99 +8,137 @@ permalink: /security/
 
 **Last Updated:** January 26, 2026
 
-TransHarbor is committed to keeping your data safe and secure. As a community platform for trans and nonbinary people, we understand the critical importance of security and privacy.
+TransHarbor provides enterprise-grade security infrastructure for the trans and nonbinary community. We believe our community deserves the same level of security protection as major corporations—and we've built our platform to deliver it.
 
-## Security Practices
+## Enterprise-Grade Security Infrastructure
+
+### Hardware Security Module (HSM)
+
+We operate our own dedicated Hardware Security Module to protect cryptographic keys and sensitive operations:
+
+**Key Protection:**
+- All cryptographic keys stored in tamper-resistant hardware
+- Private keys never leave the HSM
+- FIPS 140-2 Level 3 certified hardware
+- Physical and logical security controls
+
+**Secure Operations:**
+- Certificate signing
+- Encryption key generation
+- Password hash verification
+- Authentication token generation
+
+### Public Key Infrastructure (PKI)
+
+TransHarbor operates its own complete PKI, giving us full control over our security:
+
+**Our Own Certificate Authority:**
+- Independent certificate issuance and management
+- No reliance on third-party certificate authorities for internal services
+- Complete chain of trust under our control
+- Regular certificate rotation and renewal
+
+**What This Means:**
+- We control every aspect of our encryption
+- No external dependencies for critical security functions
+- Enhanced privacy—no third parties in our trust chain
+- Ability to issue certificates for all internal services
 
 ### Data Protection
 
-**Encryption:**
-- All data transmitted between your device and our servers is encrypted using TLS/SSL
-- Passwords are hashed using industry-standard algorithms (never stored in plain text)
-- Database backups are encrypted at rest
+**Encryption Everywhere:**
+- TLS 1.3 for all connections
+- AES-256 encryption for data at rest
+- End-to-end encryption for direct messages (planned)
+- Encrypted database backups
 
 **Access Control:**
-- Strict authentication and authorization controls
-- Multi-factor authentication support (planned)
-- Regular security audits of access logs
+- Hardware-backed authentication
+- Role-based access control (RBAC)
+- Multi-factor authentication support
+- Strict least-privilege policies
 
-**Data Minimization:**
-- We only collect data necessary to operate the platform
-- No tracking pixels or third-party analytics
-- Self-hosted infrastructure (no cloud providers with access to your data)
+**Data Sovereignty:**
+- All data stored on our own infrastructure
+- No cloud providers with access to your data
+- Complete control over data location and handling
+- Self-hosted, self-managed infrastructure
 
-### Infrastructure Security
+## Why Enterprise Security Matters for Our Community
 
-**Self-Hosted:**
-- All services run on our own infrastructure
+Trans and nonbinary people face unique security risks:
+- Targeted harassment and doxxing
+- Privacy violations
+- Data breaches exposing identity
+- Platform security failures
+
+**Our Response:**
+We've invested in enterprise-grade infrastructure typically reserved for large corporations because our community deserves the best protection available. Your safety is our priority.
+
+## Infrastructure Security
+
+**Self-Hosted & Self-Managed:**
+- Own hardware in secure data centers
+- Full control over all systems
 - No third-party cloud providers
-- Full control over data storage and processing
+- Complete operational transparency
 
-**Regular Updates:**
-- Security patches applied promptly
-- Dependencies kept up-to-date
-- Continuous monitoring for vulnerabilities
+**Network Security:**
+- Firewalled infrastructure
+- Intrusion detection and prevention
+- DDoS mitigation
+- Regular penetration testing
 
-**Backups:**
-- Encrypted daily backups
-- Secure off-site storage
-- Regular restoration testing
+**Monitoring & Response:**
+- 24/7 security monitoring
+- Automated threat detection
+- Rapid incident response
+- Regular security audits
 
-## Open Source
+## Open Source Transparency
 
-TransHarbor is open source, which means:
-- Anyone can review our code for security issues
-- Community security researchers can audit our practices
-- Transparent security measures (no "security through obscurity")
+Our code is open source, allowing:
+- Independent security audits
+- Community review of security practices
+- Transparency in implementation
+- Collaborative security improvements
 
 ## Reporting Security Issues
 
-If you discover a security vulnerability, please report it responsibly:
+If you discover a security vulnerability:
 
 **Email:** security@transharbor.org
 
-**What to Include:**
-- Description of the vulnerability
-- Steps to reproduce
-- Potential impact
-- Your contact information (optional)
-
-**Our Commitment:**
-- We'll acknowledge your report within 48 hours
-- We'll investigate and provide updates
-- We'll credit you (if desired) when the issue is resolved
-- We won't take legal action against good-faith security researchers
+**We Commit To:**
+- Acknowledge reports within 48 hours
+- Investigate thoroughly and provide updates
+- Credit researchers (if desired) when resolved
+- Never take legal action against good-faith researchers
 
 ## Security Incident Response
 
 In the event of a security breach:
 
-1. **Immediate Action:** Contain and mitigate the incident
-2. **Investigation:** Determine scope and impact
-3. **Notification:** Inform affected users within 72 hours
-4. **Remediation:** Fix vulnerabilities and prevent recurrence
-5. **Transparency:** Publish a post-mortem report
+1. **Immediate containment and mitigation**
+2. **Thorough investigation of scope and impact**
+3. **User notification within 72 hours**
+4. **Vulnerability remediation**
+5. **Public post-mortem report**
 
 ## User Security Best Practices
 
 **Protect Your Account:**
 - Use a strong, unique password
-- Don't share your password with anyone
-- Log out when using shared devices
 - Enable multi-factor authentication (when available)
+- Don't share your credentials
+- Log out on shared devices
 
-**Privacy Settings:**
+**Protect Your Privacy:**
 - Review your profile visibility settings
-- Be mindful of what you share in posts
+- Be mindful of what you share publicly
 - Use direct messages for private conversations
-- Report suspicious accounts or behavior
-
-**Device Security:**
-- Keep your device and apps updated
-- Use device lock screens
-- Be cautious on public Wi-Fi networks
-- Install apps only from official sources
+- Report suspicious behavior
 
 ## Questions?
 
-If you have questions about our security practices, contact us at security@transharbor.org or support@transharbor.org.
+Contact us at security@transharbor.org or support@transharbor.org.
