@@ -114,6 +114,4 @@ Organizers implement passed proposals with regular progress updates.
 
 ## Contact
 
-**Governance questions:** governance@transharbor.org
-
 **Support:** support@transharbor.org

@@ -49,5 +49,4 @@ See [Governance](/governance) for details.
 
 ## Contact
 
-contact@transharbor.org  
 support@transharbor.org
