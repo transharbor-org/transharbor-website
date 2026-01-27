@@ -16,7 +16,6 @@ plugins:
 # Navigation
 header_pages:
   - about.md
-  - guidelines.md
 
 # Social links
 minima:
