@@ -6,14 +6,14 @@ permalink: /about/
 
 # About TransHarbor
 
-User-owned, nonprofit community platform for trans and nonbinary people. Personals, messaging, democratic governance.
+User-owned, nonprofit community platform for trans and nonbinary people. Posts, messaging, democratic voting.
 
 ## Core Values
 
 Protected principles (require supermajority to change):
 
 - Trans and nonbinary centered
-- User ownership & cooperative governance
+- User ownership & cooperative voting
 - Anti-discrimination & safety
 - Privacy & data sovereignty
 - Democratic decision-making
@@ -22,16 +22,16 @@ Protected principles (require supermajority to change):
 
 Wyoming Unincorporated Nonprofit Association (UNA)
 - No shareholders or private ownership
-- Democratic governance by members
+- Democratic voting by members
 - Transparent operations
 
-See [Governance](/governance) for details.
+See [Voting](/governance) for details.
 
 ## How It Works
 
 **Everyone:**
 - Create profile
-- Post personals
+- Post
 - Direct message
 - Report/block users
 
