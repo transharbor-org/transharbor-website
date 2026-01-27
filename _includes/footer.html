@@ -37,10 +37,15 @@
 </div>
 
 <script>
-  (function() {
+  document.addEventListener('DOMContentLoaded', function() {
     var consentBanner = document.getElementById('cookie-consent-banner');
     var acceptBtn = document.getElementById('cookie-accept');
     var declineBtn = document.getElementById('cookie-decline');
+    
+    if (!consentBanner || !acceptBtn || !declineBtn) {
+      console.error('Cookie consent elements not found');
+      return;
+    }
     
     function getCookie(name) {
       var value = "; " + document.cookie;
@@ -88,5 +93,5 @@
       }
       hideBanner();
     });
-  })();
+  });
 </script>
