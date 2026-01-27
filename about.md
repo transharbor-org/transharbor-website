@@ -35,7 +35,7 @@ See [Governance](/governance) for details.
 - Direct message
 - Report/block users
 
-See our [Community Guidelines](/guidelines) for expected behavior.
+See our [Community Guidelines](/guidelines).
 
 **Voting Members** (3+ posts, 60+ days old, active):
 - Submit proposals
@@ -44,7 +44,7 @@ See our [Community Guidelines](/guidelines) for expected behavior.
 
 ## Technology
 
-- Flutter (iOS, Android, Web)
+- Flutter (iOS, Android)
 - PocketBase + SQLite
 - Self-hosted, encrypted backups
 - Open source
