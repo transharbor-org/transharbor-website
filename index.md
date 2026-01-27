@@ -25,6 +25,6 @@ title: Welcome to TransHarbor
 <p style="margin: 1rem 0;"><strong>Messaging</strong> – Private conversations</p>
 <p style="margin: 1rem 0;"><strong>Voting</strong> – Active members vote on decisions</p>
 
-<p style="margin-top: 1.5rem;"><strong>Coming Soon:</strong> iOS, Android, Web</p>
+<p style="margin-top: 1.5rem;"><strong>Coming Soon:</strong> iOS, Android</p>
 
 </div>
