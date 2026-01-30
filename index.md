@@ -1,9 +1,11 @@
 ---
-layout: home-page
-title: Welcome to TransHarbor
+layout: page
 ---
 
 <div style="text-align: center; max-width: 700px; margin: 0 auto; padding: 2rem 1rem;">
+
+<p><strong><h3>Coming soon for iOS and Android</h3></strong></p>
+
 
 <svg width="200" height="120" viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg" style="margin: 2rem auto;">
   <rect width="200" height="24" y="0" fill="#5BCEFA"/>
@@ -13,19 +15,20 @@ title: Welcome to TransHarbor
   <rect width="200" height="24" y="96" fill="#5BCEFA"/>
 </svg>
 
-<h2>A User-Owned Platform for Trans & Nonbinary People</h2>
+<h2>A Platform For Our Community</h2>
 
-<p style="font-size: 1.1rem; margin: 1.5rem 0;">Nonprofit, democratically-governed community platform with posts, messaging, and voting.</p>
+<p><strong>Trans and nonbinary people worldwide deserve a space that's actually ours.</strong></p>
 
-<p><strong>User-Owned</strong> • <strong>Trans-Centered</strong> • <strong>Privacy-First</strong> • <strong>Democratic</strong> • <strong>Nonprofit</strong></p>
-<p><strong>Security-Focused</strong> • <strong>Open-Source</strong></p>
+<p>TransHarbor is a community platform where we connect, organize, and build together.</p>
 
-<h3 style="margin-top: 2rem;">Features</h3>
+<hr style="margin: 2rem 0;">
 
-<p style="margin: 1rem 0;"><strong>Posts</strong> – Text posts to connect with others</p>
-<p style="margin: 1rem 0;"><strong>Messaging</strong> – Private conversations</p>
-<p style="margin: 1rem 0;"><strong>Voting</strong> – Active members vote on decisions</p>
+<h2>How It Works</h2>
 
-<p style="margin-top: 1.5rem;"><strong>Coming Soon:</strong> iOS, Android</p>
+<p><strong>Posts</strong> - Share thoughts, organize, connect with trans and nonbinary people globally</p>
+
+<p><strong>Messaging</strong> - Private conversations, encrypted and protected</p>
+
+<p><strong>Democratic voting</strong> - Active members vote on platform decisions and policies</p>
 
 </div>

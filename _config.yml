@@ -2,7 +2,7 @@
 title: TransHarbor
 email: contact@transharbor.org
 description: >-
-  TransHarbor is a collectively owned and democratically governed community platform dedicated to serving the trans and nonbinary community.
+  TransHarbor is a community owned and governed platform for trans and nonbinary people worldwide.
 baseurl: ""
 url: "https://transharbor.org"
 
@@ -18,6 +18,8 @@ header_pages:
   - about.md
   - mission.md
   - safety.md
+  - volunteer.md
+  - community.md
 
 # Social links
 minima:

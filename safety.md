@@ -31,14 +31,14 @@ So we built our security infrastructure with one goal: **keep you safe.**
 Imagine you have a diary with all your secrets. Most platforms keep that diary locked, but the key sits right next to it. If someone breaks into the room, they get both.
 
 We use a **hardware security module** - think of it as a lock that can't be picked and a key that can't be copied. It's a physical device that:
-- Lives in a secure location, like a bank vault in Switzerland
+- Lives in a secure location, like a bank vault
 - Holds all the encryption keys
 - **Cannot give out those keys, ever**
 - Has to be physically present to unlock anything
 
-**What this means for your safety:** Even if hackers completely break into our servers, they can't read your data. They'd have to physically break into a Swiss datacenter with armed guards to get it.
+**What this means for your safety:** Even if hackers completely break into our servers, they can't read your data. They'd have to then also physically break into a bank vault with guards and security measures to get the keys to unlock your data. Not a likely scenario.
 
-This is the same tech banks use to keep your money safe and governments use to protect classified information.
+This is the same tech and set of protocols that financial institutions use to keep your money safe and governments use to protect classified information. Except this time, we're using government-grade security standards to protect trans people from governments. There's something beautifully ironic about that.
 
 ### Our Servers Can't Be Easily Hacked (Military-Grade Security)
 
@@ -47,8 +47,8 @@ You know how your phone asks you to update all the time? And you probably ignore
 We don't get to ignore that. Our servers follow **military security standards** - literally the same rules the US Department of Defense uses.
 
 **What this means for your safety:**
-- Security holes get patched within 24 hours (before hackers can exploit them)
-- Every unnecessary door into the system is locked
+- Security holes get patched quickly (before hackers can exploit them)
+- Every door into the system is locked down and secured
 - Every login is tracked (so we know if someone unauthorized gets in)
 - The servers are configured for maximum protection
 
@@ -64,7 +64,7 @@ Our servers are physically in Switzerland. Not Amazon's cloud. Not Google's serv
 - Swiss courts have to approve data requests (and they take privacy seriously)
 - Swiss law protects your privacy constitutionally
 
-The datacenter has armed security, fingerprint access, cameras, backup power - the whole movie security setup.
+The datacenter has guards, fingerprint access, cameras, backup power - the whole movie security setup.
 
 **If someone wants your data, they can't just send a legal demand. They need a Swiss court order, which is much harder to get than in most countries.**
 
@@ -73,12 +73,12 @@ The datacenter has armed security, fingerprint access, cameras, backup power - t
 **Encryption** means scrambling data so only authorized people can read it. Like writing in a secret code.
 
 **What this means for your safety:**
-- Your messages are scrambled - only you and who you're talking to can read them
+- Your messages are scrambled - only you and the person who you're talking to can read them
 - The hard drives are scrambled - if someone steals the servers, they get gibberish
 - Your internet connection is scrambled - nobody can spy on it
 - Even the backups are scrambled
 
-Without the keys (locked in that physical device in Switzerland), everything is just nonsense characters.
+Without the keys (locked in that physical device in a bank vault), everything is just nonsense characters.
 
 ### We Know If Someone Tries to Break In (Real-Time Monitoring)
 
@@ -136,27 +136,6 @@ You deserve military-grade server protection because the people attacking trans 
 
 You know what? **We deserve nice things.** And nice things include real safety, not just promises and hope.
 
-## The Real Talk About Safety
-
-I've worked on corporate infrastructure. I've seen what "good enough" security looks like at companies.
-
-This is better than that.
-
-Because at a company, a data breach means bad headlines and maybe some lawsuits. For us, a data breach means **trans people get hurt.**
-
-Your safety is worth protecting with everything we have. Not because you're paranoid. Because the threats are real and you deserve to be actually safe.
-
-## What We're Building
-
-We're still working:
-
-- Physical security device protecting your data ✓
-- Servers hardened to military standards ✓  
-- Swiss datacenter with strong privacy protections ✓
-- Real-time monitoring protecting you 24/7 ✓
-- Platform development (ongoing)
-- Third-party security audit (planned)
-
 ## About Trusting Us With Your Safety
 
 You're trusting people you don't know with your safety. That's a big ask.
@@ -181,9 +160,9 @@ What I can promise is that we're building defenses to keep you as safe as we pos
 
 Same reason we open sourced the legal structure: other trans platforms need this too.
 
-Setting up this kind of safety infrastructure is hard. The guides are confusing. It seems impossible for small projects.
+Setting up this kind of safety infrastructure is hard. The guides are confusing. It seems impossible for small projects. To be honest, it often is.
 
-We figured it out. We're sharing what we learned.
+We think we may have figured it out, at least for our community. We're sharing what we learned.
 
 **Trans people deserve platforms that actually keep them safe.** Not because we have something to hide, but because we have everything to protect - ourselves, each other, our community.
 
@@ -205,8 +184,6 @@ Come build it with us.
 
 ---
 
-*PS: I know this page still has some technical language. Safety is inherently technical. But the core idea is simple: we use the same security that protects government secrets and bank money, because your safety deserves that level of protection. Questions? Ask - we're happy to explain more.*
+*PS: I know this page contains some technical language and concepts. Cybersecurity is inherently technical. But the core idea is simple: we use the same security that protects government secrets and bank money, because your safety deserves that level of protection. Questions? Ask - we're happy to explain more.*
 
 *PPS: Some might think "this sounds paranoid." But after Grindr sold data, after Tumblr destroyed queer communities, after every trans space we've lost globally - is it really paranoid? We think it's just being realistic about the threats trans people face everywhere and doing something about it.*
-
-*PPPS: We're using government-grade security standards to protect trans people from governments. There's something beautifully ironic about that.*
