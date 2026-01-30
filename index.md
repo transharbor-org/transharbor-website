@@ -13,7 +13,7 @@ title: Welcome to TransHarbor
   <rect width="200" height="24" y="96" fill="#5BCEFA"/>
 </svg>
 
-<h2>User-Owned Platform for Trans & Nonbinary People</h2>
+<h2>A User-Owned Platform for Trans & Nonbinary People</h2>
 
 <p style="font-size: 1.1rem; margin: 1.5rem 0;">Nonprofit, democratically-governed community platform with posts, messaging, and voting.</p>
 
