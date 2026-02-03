@@ -32,7 +32,7 @@ layout: page
 
 <p><strong>Swiss servers</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
 
-<p><strong>Open source</strong> - All code is public (AGPL-3.0). If we fail you, fork it and start over.</p>
+<p><strong>Open source</strong> - All code is public. If we fail you, fork it and start over.</p>
 
 <p><strong>Community-owned</strong> - No investors, no shareholders. Active members vote on platform decisions democratically.</p>
 
@@ -54,7 +54,7 @@ layout: page
 
 <p><strong><a href="/safety/">Safety</a></strong> - How we keep you safe</p>
 
-<p><strong><a href="/about/">About</a></strong> - Platform details, legal structure, and how it works</p>
+<p><strong><a href="/about/">About</a></strong> - Platform details and how it works</p>
 
 <p><strong><a href="/deirdre/">Deirdre</a></strong> - Meet our AI moderator</p>
 
@@ -64,7 +64,7 @@ layout: page
 
 <p><strong><a href="/volunteer/">Volunteer</a></strong> - Help moderate</p>
 
-<p><strong><a href="/contributing/">Contribute Code</a></strong> - It's open source: Flutter + PocketBase</p>
+<p><strong><a href="/contributing/">Contribute Code</a></strong> - It's open source!</p>
 
 <p><strong>Contact</strong> - <a href="mailto:support@transharbor.org">support@transharbor.org</a></p>
 
