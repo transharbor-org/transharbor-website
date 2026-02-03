@@ -18,15 +18,13 @@ layout: page
 
 <hr style="margin: 2rem 0;">
 
-<h2>A Platform That Can't Be Sold Out</h2>
+<h2>Trans and Nonbinary People Worldwide Deserve A Space That's Actually Ours.</h2>
 
-<p>Trans and nonbinary people worldwide deserve a space that's actually ours.</p>
-
-<p>TransHarbor is mission-locked and community-owned forever.</p>
+<p>TransHarbor is mission-locked, non-profit and community-owned forever.</p>
 
 <hr style="margin: 2rem 0;">
 
-<h2>What Makes TransHarbor Different</h2>
+<h2>What Makes This Different</h2>
 
 <p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Swiss law. It cannot be changed, ever.</p>
 
