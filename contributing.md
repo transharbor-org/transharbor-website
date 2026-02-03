@@ -88,9 +88,9 @@ Don't test trivial stuff.
 
 ## Get Started
 
-**Repo:** github.com/transharbor-org/transharbor
-**Issues:** github.com/transharbor-org/transharbor/issues  
-**Questions:** dev@transharbor.org
+**Repo:** [github.com/transharbor-org/transharbor](https://github.com/transharbor-org/transharbor)  
+**Issues:** [github.com/transharbor-org/transharbor/issues](https://github.com/transharbor-org/transharbor/issues)  
+**Questions:** [dev@transharbor.org](mailto:dev@transharbor.org)
 
 ---
 
