@@ -12,10 +12,10 @@ Welcome to the TransHarbor website. We're a community chat platform for transgen
 
 If you're new to TransHarbor:
 
-1. **Read our [About page](/about)** to learn about our community
-2. **Review our [Community Guidelines](/guidelines)** 
-3. **Join our [Discord server](/chat)** - it's free and welcoming!
-4. **Explore our [Resources](/resources)** for helpful information
+1. **Read our [About page]** to learn about our community
+2. **Review our [Community Guidelines]** 
+3. **Join our server** - it's free and welcoming!
+4. **Explore** for helpful information
 5. **Introduce yourself** and become part of our supportive community
 
 ## Our Growing Community

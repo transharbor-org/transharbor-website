@@ -22,13 +22,13 @@ layout: page
 
 <p>Trans and nonbinary people worldwide deserve a space that's actually ours.</p>
 
-<p>TransHarbor is mission-locked, community-owned, and protected by Swiss law. We can't be bought, sold, or compromised.</p>
+<p>TransHarbor is mission-locked, community-owned, and protected by Swiss law.</p>
 
 <hr style="margin: 2rem 0;">
 
 <h2>What Makes TransHarbor Different</h2>
 
-<p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Swiss law. It cannot be changed, ever.</p>
+<p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Switzerland. It cannot be changed, ever.</p>
 
 <p><strong>Swiss servers</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
 
@@ -52,26 +52,20 @@ layout: page
 
 <p><strong><a href="/mission/">Mission</a></strong> - How we protect the trans-centered mission forever</p>
 
-<p><strong><a href="/safety/">Safety</a></strong> - How we keep you safe from harassment and surveillance</p>
+<p><strong><a href="/safety/">Safety</a></strong> - How we keep you safe</p>
 
 <p><strong><a href="/about/">About</a></strong> - Platform details, legal structure, and how it works</p>
 
-<p><strong><a href="/deirdre/">Deirdre</a></strong> - Meet our AI moderator (named after Deirdre McCloskey)</p>
+<p><strong><a href="/deirdre/">Deirdre</a></strong> - Meet our AI moderator</p>
 
 <hr style="margin: 2rem 0;">
 
 <h2>Get Involved</h2>
 
-<p><strong><a href="/volunteer/">Volunteer</a></strong> - Help moderate (we provide letters of recommendation)</p>
+<p><strong><a href="/volunteer/">Volunteer</a></strong> - Help moderate</p>
 
 <p><strong><a href="/contributing/">Contribute Code</a></strong> - It's open source: Flutter + PocketBase</p>
 
-<p><strong>Follow Updates</strong> - Join when we launch</p>
-
 <p><strong>Contact</strong> - <a href="mailto:support@transharbor.org">support@transharbor.org</a></p>
-
-<hr style="margin: 2rem 0;">
-
-<p><em>Built by trans people, for trans people worldwide. Mission-locked, community-owned, actually safe.</em></p>
 
 </div>
