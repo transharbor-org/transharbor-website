@@ -2,10 +2,9 @@
 layout: page
 ---
 
-<div style="text-align: center; max-width: 700px; margin: 0 auto; padding: 2rem 1rem;">
+<div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 2rem 1rem;">
 
-<p><strong><h3>Coming soon for iOS and Android</h3></strong></p>
-
+<h1>Welcome to TransHarbor</h1>
 
 <svg width="200" height="120" viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg" style="margin: 2rem auto;">
   <rect width="200" height="24" y="0" fill="#5BCEFA"/>
@@ -15,20 +14,64 @@ layout: page
   <rect width="200" height="24" y="96" fill="#5BCEFA"/>
 </svg>
 
-<h2>A Platform For Our Community</h2>
-
-<p><strong>Trans and nonbinary people worldwide deserve a space that's actually ours.</strong></p>
-
-<p>TransHarbor is a community platform where we connect, organize, and build together.</p>
+<p><strong>Coming soon for iOS and Android</strong></p>
 
 <hr style="margin: 2rem 0;">
 
-<h2>How It Works</h2>
+<h2>A Platform That Can't Be Sold Out</h2>
 
-<p><strong>Posts</strong> - Share thoughts, organize, connect with trans and nonbinary people globally</p>
+<p>Trans and nonbinary people worldwide deserve a space that's actually ours.</p>
+
+<p>TransHarbor is mission-locked, community-owned, and protected by Swiss law. We can't be bought, sold, or compromised.</p>
+
+<hr style="margin: 2rem 0;">
+
+<h2>What Makes TransHarbor Different</h2>
+
+<p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Swiss law. It cannot be changed, ever.</p>
+
+<p><strong>Swiss servers</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
+
+<p><strong>Open source</strong> - All code is public (AGPL-3.0). If we fail you, fork it and start over.</p>
+
+<p><strong>Community-owned</strong> - No investors, no shareholders. Active members vote on platform decisions democratically.</p>
+
+<hr style="margin: 2rem 0;">
+
+<h2>Features</h2>
+
+<p><strong>Posts</strong> - Share thoughts, organize, connect globally</p>
 
 <p><strong>Messaging</strong> - Private conversations, encrypted and protected</p>
 
-<p><strong>Democratic voting</strong> - Active members vote on platform decisions and policies</p>
+<p><strong>Democratic voting</strong> - Active members shape policies and decisions</p>
+
+<hr style="margin: 2rem 0;">
+
+<h2>Learn More</h2>
+
+<p><strong><a href="/mission/">Mission</a></strong> - How we protect the trans-centered mission forever</p>
+
+<p><strong><a href="/safety/">Safety</a></strong> - How we keep you safe from harassment and surveillance</p>
+
+<p><strong><a href="/about/">About</a></strong> - Platform details, legal structure, and how it works</p>
+
+<p><strong><a href="/deirdre/">Deirdre</a></strong> - Meet our AI moderator (named after Deirdre McCloskey)</p>
+
+<hr style="margin: 2rem 0;">
+
+<h2>Get Involved</h2>
+
+<p><strong><a href="/volunteer/">Volunteer</a></strong> - Help moderate (we provide letters of recommendation)</p>
+
+<p><strong><a href="/contributing/">Contribute Code</a></strong> - It's open source: Flutter + PocketBase</p>
+
+<p><strong>Follow Updates</strong> - Join when we launch</p>
+
+<p><strong>Contact</strong> - <a href="mailto:support@transharbor.org">support@transharbor.org</a></p>
+
+<hr style="margin: 2rem 0;">
+
+<p><em>Built by trans people, for trans people worldwide. Mission-locked, community-owned, actually safe.</em></p>
 
 </div>

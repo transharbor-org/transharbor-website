@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Meet Dierdre
-permalink: /dierdre/
+title: Meet Deirdre
+permalink: /deirdre/
 ---
 
 **Meet Deirdre, TransHarbor's AI moderator - named after Deirdre McCloskey, trans economist and scholar.**
