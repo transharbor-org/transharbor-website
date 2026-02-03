@@ -33,7 +33,7 @@ There's a US nonprofit (called a UNA) that:
 - Manages the community (moderation, support, communications)
 - Handles the day-to-day
 
-The UNA doesn't *own* anything. It operates under a partnership with the Swiss Association. If the UNA ever starts acting against the mission, the Swiss Association can shut it down and start over.
+The UNA is what enables the community to own the app. However, the UNA doesn't *own* anything itself. It operates under a partnership with the Swiss Association. If the UNA ever starts acting against the mission, the Swiss Association can shut it down and start over.
 
 ## What This Costs
 
@@ -41,8 +41,8 @@ A few hundred dollars per year. That's it.
 
 - Swiss Association: Free to form
 - Wyoming UNA: Free to file
-- Technical Infrastructure and Servers: We pay out of pocket and volunteer time
-- Mobile App Development: Volunteer
+- Technical Infrastructure and Servers: The servers are donated and we volunteer time to run them
+- Mobile App Development: Volunteer development
 
 No investors. No venture capital. No board seats for sale.
 
