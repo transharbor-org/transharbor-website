@@ -79,17 +79,7 @@ But here's the thing: **every other structure we can think of is worse for missi
 
 We open sourced all the legal documents (public domain, CC0 license). Any trans or queer community platform (or anyone else for that matter) can use this mission-protection structure.
 
-Because we're tired of losing our spaces to mission drift. We're tired of watching queer platforms get bought and destroyed.
-
 This structure protects the mission. It's not perfect, but it's real.
-
-## The Deeper Thing About Mission
-
-We deserve platforms where we can't be bought.
-
-We deserve governance that stays true to trans and nonbinary communities even when money or pressure show up.
-
-We deserve structures that make mission drift impossible, not just unlikely.
 
 TransHarbor is an experiment:
 - The mission is constitutionally locked
@@ -99,17 +89,6 @@ TransHarbor is an experiment:
 - Nobody can change the mission and ruin it
 
 Will it work? I don't know, but I hope so.
-
-## What's Next
-
-If you want to help:
-- Join the early community
-- Contribute code (it's AGPL-3.0)
-- Help us test
-- Spread the word
-- Volunteer as a moderator
-
-If you're building your own queer/trans organization, take our legal templates and use them. Seriously. They're public domain. Build something that can't be sold out.
 
 ## A Note About Trust
 

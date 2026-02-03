@@ -80,6 +80,23 @@ The datacenter has guards, fingerprint access, cameras, backup power - the whole
 
 Without the keys (locked in that physical device in a bank vault), everything is just nonsense characters.
 
+### ISO 27001 Compliant Infrastructure (Enterprise Security Standards)
+
+We run on **Elastisys Welkin** - a Compliant Kubernetes platform designed to meet ISO 27001 standards.
+
+**What is ISO 27001?** It's the international standard for information security management. Banks, hospitals, and government agencies use it.
+
+**What this means for your safety:**
+
+* We follow the same security standards as banks and hospitals
+* Security controls, access management, and incident response are built into our infrastructure
+* Everything is auditable and documented
+* We can prove we're doing what we say
+
+**Why Welkin?** Instead of building ISO 27001 compliance from scratch (which would take years and cost a lot), we use Welkin which provides enterprise-level security compliance designed for organizations that need strict security requirements.
+
+Think of it like this: we're running bank-level security infrastructure for a community platform, because your safety deserves that level of protection.
+
 ### We Know If Someone Tries to Break In (Real-Time Monitoring)
 
 We watch the servers 24/7 with automated systems that alert us if anything weird happens.

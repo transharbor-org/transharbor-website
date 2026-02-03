@@ -20,7 +20,6 @@ Deirdre handles front-line moderation, working alongside human moderators to kee
 **Community support:**
 - Answers questions about trans experiences
 - Provides information and resources
-- Helps newcomers understand the platform
 - Available when she's not actively moderating
 
 Deirdre works with human moderators who handle complex situations, appeals, and judgment calls. She's the first line of defense, not the only line.
@@ -30,8 +29,6 @@ Deirdre works with human moderators who handle complex situations, appeals, and 
 **Trained on open source information** about the trans community - academic research, public resources, community knowledge. Never on your private data.
 
 **Runs on our own servers** Your conversations with Deirdre stay private.
-
-**ISO 27001 compliant** - Built following international security standards for information management.
 
 **Never trained on your data.** Deirdre doesn't learn from your posts, messages, or anything you share on TransHarbor. Your information stays yours.
 
@@ -80,22 +77,6 @@ We named her after Deirdre McCloskey - trans economist, scholar, and advocate wh
 - Human moderators can override her decisions
 - Your feedback helps make her better
 
-## Deirdre's Limitations
-
-**She can't:**
-- Replace human judgment on complex issues
-- Understand nuanced context like humans can
-- Handle crisis situations (those go to humans)
-- Make final decisions on appeals
-- Be your therapist or medical advisor
-
-**She's good at:**
-- Catching obvious rule violations quickly
-- Being available 24/7 across timezones
-- Answering common questions
-- Flagging serious issues for human review
-- Providing consistent first-response moderation
-
 ## The Human + AI Team
 
 Deirdre works alongside human moderators:
@@ -109,9 +90,6 @@ This combination gives us 24/7 coverage while maintaining human oversight where 
 
 **Is Deirdre safe?**  
 Yes. She runs on our servers, follows ISO 27001 standards, and is never trained on your data.
-
-**Will she misunderstand things?**  
-Probably sometimes. That's why humans review her work and handle appeals.
 
 **Can she access my private messages?**  
 If someone reports a private message, yes - Deirdre and human moderators can see it to investigate. This is a community platform with moderation, not Signal. Unreported messages stay private.
