@@ -29,7 +29,7 @@ Deirdre works with human moderators who handle complex situations, appeals, and 
 
 **Trained on open source information** about the trans community - academic research, public resources, community knowledge. Never on your private data.
 
-**Runs on our own servers** in Switzerland. Your conversations with Deirdre stay private under Swiss law.
+**Runs on our own servers** Your conversations with Deirdre stay private.
 
 **ISO 27001 compliant** - Built following international security standards for information management.
 
@@ -44,7 +44,7 @@ Deirdre works with human moderators who handle complex situations, appeals, and 
 **Important about private messages:** This isn't Signal - we're a community platform with moderation. If someone reports a private message, Deirdre and human moderators can see it to investigate. **Be nice to each other, even in DMs.**
 
 **Your data is protected:**
-- Deirdre runs on our Swiss servers under Swiss privacy law
+- Deirdre runs on our own servers
 - She doesn't retain personal information beyond moderation needs
 - She's never trained on your conversations
 - Only reported content gets reviewed - we're not reading all your messages
@@ -108,7 +108,7 @@ This combination gives us 24/7 coverage while maintaining human oversight where 
 ## Questions
 
 **Is Deirdre safe?**  
-Yes. She runs on our Swiss servers, follows ISO 27001 standards, and is never trained on your data.
+Yes. She runs on our servers, follows ISO 27001 standards, and is never trained on your data.
 
 **Will she misunderstand things?**  
 Probably sometimes. That's why humans review her work and handle appeals.
