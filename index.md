@@ -22,13 +22,13 @@ layout: page
 
 <p>Trans and nonbinary people worldwide deserve a space that's actually ours.</p>
 
-<p>TransHarbor is mission-locked, community-owned, and protected by Swiss law.</p>
+<p>TransHarbor is mission-locked and community-owned forever.</p>
 
 <hr style="margin: 2rem 0;">
 
 <h2>What Makes TransHarbor Different</h2>
 
-<p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Switzerland. It cannot be changed, ever.</p>
+<p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Swiss law. It cannot be changed, ever.</p>
 
 <p><strong>Swiss servers</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
 
