@@ -6,8 +6,6 @@ permalink: /about/
 
 **A community platform for trans and nonbinary people worldwide. Built by us, for us, owned by us, protected forever.**
 
-TransHarbor is a social platform where trans and nonbinary people can connect, organize, and build community - no matter where you are - without worrying about being sold out, shut down, or compromised.
-
 ## How TransHarbor Works
 
 **Everyone can:**

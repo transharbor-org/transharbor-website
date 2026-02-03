@@ -18,7 +18,9 @@ layout: page
 
 <hr style="margin: 2rem 0;">
 
-<h2>Trans and Nonbinary People Worldwide Deserve A Space That's Actually Ours.</h2>
+<h2>Trans and Nonbinary People Worldwide Deserve A Space That's Radically and Uniquely Ours</h2>
+
+<p>TransHarbor is a social platform where trans and nonbinary people can connect, organize, and build community - no matter where you are.</p>
 
 <p>TransHarbor is mission-locked, non-profit and community-owned forever.</p>
 
@@ -28,11 +30,11 @@ layout: page
 
 <p><strong>Mission-locked</strong> - Our trans-centered purpose is constitutionally protected in Swiss law. It cannot be changed, ever.</p>
 
-<p><strong>Swiss servers</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
+<p><strong>Community-owned</strong> - No investors, no shareholders. Active members vote on platform decisions democratically.</p>
 
 <p><strong>Open source</strong> - All code is public. If we fail you, fork it and start over.</p>
 
-<p><strong>Community-owned</strong> - No investors, no shareholders. Active members vote on platform decisions democratically.</p>
+<p><strong>Unrivaled privacy</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
 
 <hr style="margin: 2rem 0;">
 
