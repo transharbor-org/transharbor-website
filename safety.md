@@ -1,5 +1,3 @@
-# Safety at TransHarbor
-
 TransHarbor is hosted on infrastructure managed to ISO 27001 standards - the same security framework banks and hospitals use.
 
 The biggest threats to trans people online in much of the world aren't government surveillance. They're platforms getting sold to hostile owners, data being monetized, harassment campaigns, and incompetent moderation.
