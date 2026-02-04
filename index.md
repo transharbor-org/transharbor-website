@@ -34,7 +34,7 @@ layout: page
 
 <p><strong>Open source</strong> - All code is public. If we fail you, fork it and start over.</p>
 
-<p><strong>Unrivaled privacy</strong> - Your data is protected under Swiss privacy law, hosted on our own infrastructure with military-grade security.</p>
+<p><strong>Unrivaled privacy</strong> - Your data is hosted on our fully-owned private server infrastructure with military-grade security.</p>
 
 <hr style="margin: 2rem 0;">
 

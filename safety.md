@@ -1,206 +1,88 @@
----
-layout: page
-title: Safety
-permalink: /safety/
----
+# Safety at TransHarbor
 
-## How We Protect Trans and Nonbinary People
+TransHarbor is hosted on infrastructure managed to ISO 27001 standards - the same security framework banks and hospitals use.
 
-This page is about **safety** - how we protect you, your conversations, and your data from people who want to harm us.
+The biggest threats to trans people online in much of the world aren't government surveillance. They're platforms getting sold to hostile owners, data being monetized, harassment campaigns, and incompetent moderation.
 
-## Why Safety Matters For Trans People
+That's what we're built to protect against.
 
-Let me be blunt: **we are targets.**
+TransHarbor also works just as well in parts of the world where trans and nonbinary folks do need to be concerned about the information their government is able to obtain. We use government-grade security to protect trans folks from backwards governments. We think there's something poetic about that.
 
-Trans people face:
-- Doxxing (having your personal info exposed online)
-- Organized harassment campaigns
-- Hostile governments
-- Data breaches that out people
-- Platforms being forced to hand over user data
-- Companies selling our information
+## The Platform Can't Be Sold
 
-A chat platform for trans and nonbinary people isn't just "an app." It's a list of who we are, what we talk about, who we know. **If we mess up your safety, real people get hurt.**
+TransHarbor uses a dual-entity structure:
+- Swiss Association holds the IP and governs the mission
+- Wyoming Unincorporated Nonprofit Association operates the platform
+- Neither can be sold, acquired, or have its mission changed
 
-So we built our security infrastructure with one goal: **keep you safe.**
+This is legally binding. There's no CEO who can sell out. No investors demanding an exit. The platform you use today will have the same mission in ten years.
 
-## How We Keep You Safe
+## Bank-Grade Security Infrastructure
 
-### Your Data Can't Be Stolen (Physical Security Keys)
+We run on Elastisys Welkin, a Compliant Kubernetes platform that implements ISO 27001 security standards. This means documented security policies, regular audits, incident response protocols, access controls, and continuous compliance verification.
 
-Imagine you have a diary with all your secrets. Most platforms keep that diary locked, but the key sits right next to it. If someone breaks into the room, they get both.
+We're implementing the same security framework that protects your bank account. 
 
-We use a **hardware security module** - think of it as a lock that can't be picked and a key that can't be copied. It's a physical device that:
-- Lives in a secure location, like a bank vault
-- Holds all the encryption keys
-- **Cannot give out those keys, ever**
-- Has to be physically present to unlock anything
+## Hardware Security for Encryption
 
-**What this means for your safety:** Even if hackers completely break into our servers, they can't read your data. They'd have to then also physically break into a bank vault with guards and security measures to get the keys to unlock your data. Not a likely scenario.
+We use YubiHSM hardware security modules to protect encryption keys. These tamper-resistant physical devices store keys in hardware, require physical presence to use, and protect against remote attacks.
 
-This is the same tech and set of protocols that financial institutions use to keep your money safe and governments use to protect classified information. Except this time, we're using government-grade security standards to protect trans people from governments. There's something beautifully ironic about that.
+Your data is encrypted at rest. Keys are in hardware. Even if someone hacks our servers, they get encrypted data they can't decrypt.
 
-### Our Servers Can't Be Easily Hacked (Military-Grade Security)
+## Trans-Informed Moderation
 
-You know how your phone asks you to update all the time? And you probably ignore it?
+Our AI moderator, Deirdre (named after economist Deirdre McCloskey), understands trans-specific context: reclaiming slurs vs. harassment, venting vs. self-harm, discussing transition vs. giving medical advice.
 
-We don't get to ignore that. Our servers follow **military security standards** - literally the same rules the US Department of Defense uses.
+Deirdre handles front-line moderation with human oversight. Every decision can be appealed. The humans reviewing are from the trans community.
 
-**What this means for your safety:**
-- Security holes get patched quickly (before hackers can exploit them)
-- Every door into the system is locked down and secured
-- Every login is tracked (so we know if someone unauthorized gets in)
-- The servers are configured for maximum protection
+## No Data Monetization
 
-It's the difference between "we hoped for the best" and "we followed a 300-page security checklist designed to protect military secrets."
+We're not a business. We don't have investors. We don't sell your data to advertisers, share it with data brokers, train AI on your messages, build advertising profiles, or track you across the web.
 
-### Governments Can't Easily Get Your Data (Swiss Location)
+Our legal structure prohibits it.
 
-Our servers are physically in Switzerland. Not Amazon's cloud. Not Google's servers. **Our actual servers in a Swiss datacenter.**
+## Community Governance
 
-**What this means for your safety:**
-- Hostile governments can't just demand your data
-- Mass surveillance programs don't have easy access
-- Swiss courts have to approve data requests (and they take privacy seriously)
-- Swiss law protects your privacy constitutionally
+The Swiss Association that owns TransHarbor is member-run. Major decisions require member vote. Mission changes need supermajority approval.
 
-The datacenter has guards, fingerprint access, cameras, backup power - the whole movie security setup.
+If we screw up, you can vote for some other way of doing things or vote us out entirely.
 
-**If someone wants your data, they can't just send a legal demand. They need a Swiss court order, which is much harder to get than in most countries.**
+## Open Source
 
-### Nobody Can Read Your Messages Without Permission (Encryption)
+Every line of TransHarbor is open source. Verify our encryption claims. Check how moderation works. Review what data we collect. Audit any feature we add.
 
-**Encryption** means scrambling data so only authorized people can read it. Like writing in a secret code.
+## US Hosting Means US Law
 
-**What this means for your safety:**
-- Your messages are scrambled - only you and the person who you're talking to can read them
-- The hard drives are scrambled - if someone steals the servers, they get gibberish
-- Your internet connection is scrambled - nobody can spy on it
-- Even the backups are scrambled
+We're subject to US law. US law enforcement with valid warrants can compel us to provide data. We'll fight overbroad requests, but valid legal process is valid legal process.
 
-Without the keys (locked in that physical device in a bank vault), everything is just nonsense characters.
+Encryption and hardware security protect against unauthorized access, data breaches, and rogue actors. They won't stop a court order.
 
-### ISO 27001 Compliant Infrastructure (Enterprise Security Standards)
+## What We Can't Do
 
-We run on **Elastisys Welkin** - a Compliant Kubernetes platform designed to meet ISO 27001 standards.
+We can't protect you from valid warrants. We can't stop determined doxxers - be careful what you share. We can't guarantee perfect uptime - we're volunteer-run. We can't catch everything instantly. We can't prevent all harassment, but we respond seriously when you report it.
 
-**What is ISO 27001?** It's the international standard for information security management. Banks, hospitals, and government agencies use it.
+## Questions
 
-**What this means for your safety:**
+**Why US hosting?** Cost-effective for a volunteer nonprofit. Real protection comes from mission lock, encryption, and governance - not server geography. We're open to Swiss servers if you have a few to donate long term.
 
-* We follow the same security standards as banks and hospitals
-* Security controls, access management, and incident response are built into our infrastructure
-* Everything is auditable and documented
-* We can prove we're doing what we say
+**Can I use TransHarbor for illegal activity?** No. We're subject to US law.
 
-**Why Welkin?** Instead of building ISO 27001 compliance from scratch (which would take years and cost a lot), we use Welkin which provides enterprise-level security compliance designed for organizations that need strict security requirements.
+**What if I'm being harassed?** Report it immediately. Our moderation team understands trans-specific harassment.
 
-Think of it like this: we're running bank-level security infrastructure for a community platform, because your safety deserves that level of protection.
+**How do I know you won't change?** Our legal structure makes mission changes impossible without supermajority community vote.
 
-### We Know If Someone Tries to Break In (Real-Time Monitoring)
+**What if law enforcement requests my data?** We'll comply with valid warrants. We'll fight overbroad requests.
 
-We watch the servers 24/7 with automated systems that alert us if anything weird happens.
+**Why should I trust you?** Don't. We're open source, mission-locked, and transparent about limitations. Verify everything.
 
-**What this means for your safety:**
-- If someone tries to hack us, we know immediately (not days later)
-- We can respond to attacks in real-time
-- Suspicious activity gets investigated right away
+## Bottom Line
 
-Think of it like a security alarm - if someone tries to break in at 3am, we wake up and deal with it immediately.
+Safety is structure that prevents enshittification, security practices that protect data, moderation that understands trans issues, governance that gives community power, and transparency that enables verification.
 
-### Your Data Can Be Recovered If Disaster Strikes (Tested Backups)
+We're building infrastructure that can't be sold out, monetized, or abandoned.
 
-We regularly back everything up to a separate location.
+## Contact
 
-**What this means for your safety:**
-- If servers fail, your data isn't lost
-- If we get hacked and data is destroyed, we can restore it
-- If there's a fire or disaster, everything can be recovered
-
-We actually test the backups to make sure they work. Because backups you haven't tested are just wishes.
-
-## What Could Still Compromise Your Safety
-
-I'm not going to lie to you. Here's what could still put you at risk:
-
-**We might make a mistake.** Security is really hard. We might misconfigure something. We're human. We'll fix it fast if we catch it, but mistakes happen.
-
-**New vulnerabilities get discovered constantly.** Software has bugs we don't know about yet. We update as fast as possible, but there's always a window of risk.
-
-**Social engineering can bypass technical security.** If someone tricks one of us into doing something stupid, all our defenses won't help. We train against this, but humans are the weak link.
-
-**Swiss courts can order data handover.** We'd fight it, but we might lose. The advantage is Swiss courts are much more protective of privacy than courts in most countries - it's harder for them to force us to hand over data.
-
-**We're not a giant security company.** Signal has professional cryptographers and huge resources. We don't. We're doing the best we can with what we have.
-
-**But here's the key thing: we're trying really hard to keep you safe.** And we're being honest about the risks instead of pretending they don't exist.
-
-## Why Your Safety Matters This Much
-
-Trans people deserve better than "eh, security is hard, we'll just wing it."
-
-**You deserve to be safe.** Not "safe enough." Actually safe.
-
-You deserve infrastructure built by people who understand that a data breach isn't just embarrassing - it's people getting outed, harassed, hurt, put in danger.
-
-You deserve to have your conversations protected like they're classified government documents. Because **your safety is more important than classified documents.**
-
-You deserve Swiss privacy law protecting your data because governments worldwide are increasingly hostile to trans people.
-
-You deserve physical security devices protecting encryption keys because regular security can be hacked.
-
-You deserve military-grade server protection because the people attacking trans platforms are sophisticated and organized.
-
-You know what? **We deserve nice things.** And nice things include real safety, not just promises and hope.
-
-## About Trusting Us With Your Safety
-
-You're trusting people you don't know with your safety. That's a big ask.
-
-Here's what I can promise:
-
-**We'll be honest.** If something goes wrong, we'll tell you immediately. No hiding, no downplaying. Your safety depends on honesty.
-
-**We'll fix problems fast.** Your safety comes before new features, always.
-
-**We'll keep learning.** Keeping you safe isn't something you finish, it's something you practice every day.
-
-**We'll be transparent.** Our security practices are documented openly so you can verify we're doing what we say.
-
-What I can't promise:
-
-**You'll never be at risk.** Nobody can promise that.
-
-What I can promise is that we're building defenses to keep you as safe as we possibly can, and if something goes wrong, we'll tell you and fix it.
-
-## Why We're Sharing This
-
-Same reason we open sourced the legal structure: other trans platforms need this too.
-
-Setting up this kind of safety infrastructure is hard. The guides are confusing. It seems impossible for small projects. To be honest, it often is.
-
-We think we may have figured it out, at least for our community. We're sharing what we learned.
-
-**Trans people deserve platforms that actually keep them safe.** Not because we have something to hide, but because we have everything to protect - ourselves, each other, our community.
-
-## Final Thing
-
-Building government-level security for trans people feels like:
-
-- **Overkill** (it's just a chat app!)
-- **Not enough** (what if someone still gets hurt?)
-- **Exactly right** (trans people deserve to be safe)
-
-I land on "exactly right."
-
-Your safety deserves the best protection we can build. Your data deserves Swiss privacy law. Your conversations deserve military-grade security.
-
-We're not perfect. We're not a huge security company. But we're trying really hard to keep you safe.
-
-Come build it with us.
+General inquiries: [support@transharbor.org](mailto:support@transharbor.org)
 
 ---
-
-*PS: I know this page contains some technical language and concepts. Cybersecurity is inherently technical. But the core idea is simple: we use the same security that protects government secrets and bank money, because your safety deserves that level of protection. Questions? Ask - we're happy to explain more.*
-
-*PPS: Some might think "this sounds paranoid." But after Grindr sold data, after Tumblr destroyed queer communities, after every trans space we've lost globally - is it really paranoid? We think it's just being realistic about the threats trans people face everywhere and doing something about it.*

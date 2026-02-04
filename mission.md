@@ -25,7 +25,7 @@ This Association has one purpose **permanently locked into its founding document
 
 Even if every board member voted to change it, that change would be void. The mission is constitutionally protected.
 
-The Association runs all the technical infrastructure in Switzerland, which means Swiss privacy law protects your data. The mission is protected in a jurisdiction that respects privacy.
+The Association runs all the technical infrastructure and servers. The mission is protected in a jurisdiction that respects privacy.
 
 ### 2. The Wyoming Nonprofit (Community Operations)
 
@@ -41,7 +41,7 @@ A few hundred dollars per year. That's it.
 
 - Swiss Association: Free to form
 - Wyoming UNA: Free to file
-- Technical Infrastructure and Servers: The servers are donated and we volunteer time to run them
+- Technical Infrastructure and Servers: The servers are donated and we volunteer time and expertise to run them
 - Mobile App Development: Volunteer development
 
 No investors. No venture capital. No board seats for sale.
@@ -66,8 +66,6 @@ No investors. No venture capital. No board seats for sale.
 ## What Could Threaten the Mission
 
 Let me be real - mission protection isn't perfect:
-
-**We could run out of money.** If we can't pay for servers, the platform goes down. The mission survives (the code is open source, someone else could run it), but we'd fail.
 
 **We could lose focus.** Even with mission lock, we could make bad decisions that harm the community. The structure protects against intentional mission drift, not incompetence.
 

@@ -37,7 +37,7 @@ You need to be active in the community: 3+ posts, account 60+ days old, and curr
 
 ## Why We Built This
 
-Trans people everywhere are tired of losing our spaces.
+Trans people everywhere are tired of not having our own spaces.
 
 Tired of platforms that start with good intentions and end with corporate buyouts.
 
@@ -46,8 +46,6 @@ Tired of TERFs and chasers.
 Tired of being sold out.
 
 Tired of watching our communities get dispersed when platforms inevitably compromise.
-
-Tired of governments - whether red states in the US, the UK's hostile policies, or transphobic regimes anywhere - having easy access to our data.
 
 We wanted to build something that could last. Something where the mission is locked, the code is open, the governance is democratic, and trans people worldwide have all the power.
 
