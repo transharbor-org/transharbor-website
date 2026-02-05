@@ -40,8 +40,6 @@ You need to be active in the community: 3+ posts, account 60+ days old, and curr
 
 Trans people everywhere are tired of not having our own spaces.
 
-Tired of platforms that start with good intentions and end with corporate buyouts.
-
 Tired of TERFs and chasers.
 
 Tired of being sold out.

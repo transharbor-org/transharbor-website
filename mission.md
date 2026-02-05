@@ -5,10 +5,6 @@ permalink: /mission/
 description: How TransHarbor's dual-entity structure and democratic governance protect our trans-centered mission forever - no CEO can sell out, no investors can change course.
 ---
 
-This page is about **mission** - how we built TransHarbor so our community-driven, trans-centered mission can never be compromised.
-
-## How We Protected the Mission
-
 TransHarbor has a two-part structure:
 
 ### 1. The Swiss Association (Mission Guardian)
@@ -42,6 +38,7 @@ A few hundred dollars per year. That's it.
 - Wyoming UNA: Free to file
 - Technical Infrastructure and Servers: The servers are donated and we volunteer time and expertise to run them
 - Mobile App Development: Volunteer development
+- Moderation: Volunteer moderation by trans community members
 
 No investors. No venture capital. No board seats for sale.
 

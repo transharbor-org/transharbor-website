@@ -5,7 +5,7 @@ permalink: /safety/
 description: How TransHarbor protects trans and nonbinary users from hostile platform takeovers, data exploitation, harassment, and government surveillance.
 ---
 
-The biggest threats to trans people online in much of the world aren't government surveillance. They're platforms getting sold to hostile owners, data being monetized, harassment campaigns, and incompetent moderation.
+The biggest threat to trans people online in much of the world isn't government surveillance. It's platforms getting sold to owners who don't care about us, data being monetized, harassment campaigns, and incompetent moderation.
 
 That's what we're built to protect against.
 
@@ -55,10 +55,12 @@ If we screw up, you can vote for some other way of doing things or vote the Asso
 Every line of TransHarbor is open source. Verify our encryption claims. Check how moderation works. Review what data we collect. Audit any feature we add.
 
 ## US Hosting Means US Law
-
+ 
 We're subject to US law. US law enforcement with valid warrants can compel us to provide data. We'll fight overbroad requests, but valid legal process is valid legal process.
 
 Encryption and hardware security protect against unauthorized access, data breaches, and rogue actors. They won't stop a court order.
+
+Don't like it? Neither do we. Please donate a server in Switzerland where privacy laws are a bit better. As it stands, we're hosted in the US because that's what we have. 
 
 ## What We Can't Do
 
@@ -66,7 +68,7 @@ We can't protect you from valid warrants. We can't stop determined doxxers - be 
 
 ## Questions
 
-**Why US hosting?** Cost-effective for a volunteer nonprofit. Real protection comes from mission lock, encryption, and governance - not server geography. We're open to Swiss servers if you have a few to donate long term.
+**Why US hosting?** Cost-effective for a volunteer nonprofit. Real protection comes from mission lock, encryption, and governance - not server geography. We're open to Swiss servers if you have one to donate long term.
 
 **Can I use TransHarbor for illegal activity?** No. We're subject to US law.
 
@@ -89,3 +91,5 @@ We're building infrastructure that can't be sold out, monetized, or abandoned.
 General inquiries: [support@transharbor.org](mailto:support@transharbor.org)
 
 ---
+
+*We're trying really, really frickin' hard to make sure this platform is safe for users now and in the future*
