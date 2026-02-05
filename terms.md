@@ -40,8 +40,6 @@ Must be 18+, provide accurate registration info, maintain account security, and 
 
 **Rights:** Submit proposals, vote on governance, shape policies
 
-See [Governance](/governance) for details.
-
 ## Your Content
 
 You retain ownership. By posting, you grant TransHarbor a license to store, display, and transmit your content as part of the service. License ends when you delete content or account.
@@ -57,7 +55,7 @@ You retain ownership. By posting, you grant TransHarbor a license to store, disp
 * Platform abuse or hacking
 * Illegal activity
 
-See [Community Guidelines](/guidelines) for complete details.
+See [Community Guidelines](/community) for complete details.
 
 ## Enforcement
 
@@ -103,9 +101,9 @@ We'll notify users of material changes via email and in-platform notification. C
 
 TransHarbor is hosted in the United States and governed by Wyoming and United States law.
 
-We're subject to US law enforcement requests. With valid warrants or subpoenas, we must comply. We'll fight overbroad requests and provide minimum data legally required. See [Privacy Policy](/privacy) for details.
+We're subject to US law enforcement requests. With valid warrants or subpoenas, we must comply. We'll fight overbroad requests and provide minimum data legally required.
 
-**Disputes:** Contact disputes@transharbor.org → mediation → binding arbitration in Wyoming (except small claims, IP protection, emergency relief)
+**Disputes:** Contact → mediation → binding arbitration in Wyoming (except small claims, IP protection, emergency relief)
 
 **No Class Actions:** Individual disputes only
 
