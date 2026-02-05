@@ -4,65 +4,78 @@ title: Community
 permalink: /community/
 ---
 
-**TransHarbor exists to serve trans and nonbinary people. These guidelines help us keep this space safe.**
-
-By using TransHarbor, you agree to follow these guidelines and help protect our community.
+TransHarbor exists to serve trans and nonbinary people. These guidelines help keep this space safe.
 
 ## Core Principles
 
-**Trans and nonbinary centered.** This platform is for us, by us. Trans and nonbinary experiences are centered here. We love allies, but this is a space for trans and nonbinary people.
+**Trans and nonbinary centered.** This platform is for us, by us. Trans and nonbinary experiences are centered here. Allies are welcome, but this is our space.
 
-**Safety first.** Zero tolerance for harassment, discrimination, doxxing, or threats. We protect each other.
+**Safety first.** Zero tolerance for harassment, discrimination, doxxing, or threats.
 
 **Respect everyone.** Use correct names and pronouns. Treat all trans identities with dignity. Welcome newcomers.
 
-**Communicate constructively.** Be kind. Disagree respectfully. Listen. Practice empathy.
+**Communicate constructively.** Disagree respectfully. Listen. Practice empathy.
 
-## What's Not Allowed
+## Prohibited
 
-**Harassment and abuse** - Bullying, threats, targeted harassment, coordinated attacks
+**Harassment** - Bullying, threats, targeted harassment, coordinated attacks
 
-**Hate speech and discrimination** - Against trans people, nonbinary people, or based on race, disability, or other identities
+**Hate speech** - Against trans people, nonbinary people, or based on race, disability, or other identities
 
 **Doxxing** - Sharing personal information without consent (real names, addresses, phone numbers, workplaces)
 
 **Sexual content** - Explicit sexual content, unsolicited sexual messages
 
-**Spam and scams** - Advertising, scams, phishing, platform manipulation
+**Spam** - Advertising, scams, phishing, platform manipulation
 
 **Impersonation** - Pretending to be someone else
 
-**Platform abuse** - Creating multiple accounts to evade bans, vote manipulation, coordinated rule-breaking
+**Platform abuse** - Multiple accounts to evade bans, vote manipulation, coordinated rule-breaking
 
-## Reporting
+## Moderation
 
-See something that violates guidelines? Report it.
+**Front-line:** Deirdre (our AI moderator) reviews reported content and flags violations. See [Meet Deirdre](/deirdre/) for details.
 
-Use the report button. All reports are reviewed promptly and kept confidential.
+**Human review:** Trans community members review Deirdre's decisions and handle complex cases.
 
-**For urgent safety issues:** Email support@transharbor.org immediately.
+**We understand context.** Reclaiming slurs, venting about dysphoria, and community in-jokes are different from actual harassment. Our moderation team gets this.
 
 ## Enforcement
 
-We take violations seriously. 
+Violations result in:
 
-We reserve the right to remove content or ban users without warning for severe violations.
+1. **Warning** - First-time minor violations
+2. **Content removal** - Posts or messages deleted
+3. **Strike** - Recorded against your account (affects voting membership)
+4. **Suspension** - 1-30 days depending on severity
+5. **Permanent ban** - Severe or repeated violations
+
+We may skip steps for severe violations like doxxing, threats, or coordinated harassment.
+
+## Reporting
+
+See something wrong? Report it.
+
+Use the report button on posts or messages. Reports are confidential and reviewed promptly.
+
+**Urgent safety issues:** Contact emergency services immediately.
 
 ## Appeals
 
-Think we made a mistake? Email support@transharbor.org to appeal a moderation decision. Include:
-- Your username
-- What happened
-- Why you think it was a mistake
+Think we got it wrong? Email support@transharbor.org within 14 days. Include:
 
-We review all appeals.
+* Your username
+* What happened
+* Why you think it was incorrect
+
+All appeals are reviewed by humans, not AI.
 
 ## Questions
 
-Unclear about something? Ask. We'd rather clarify than enforce.
+Unclear about something? Ask at support@transharbor.org
 
-**Email:** support@transharbor.org
+We'd rather clarify than enforce.
 
 ---
 
-*We're all responsible for keeping this space safe. Report violations, support each other, be kind.*
+**We're all responsible for keeping this space safe. Report violations, support each other, be kind.**
