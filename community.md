@@ -79,4 +79,4 @@ We'd rather clarify than enforce.
 
 ---
 
-**We're all responsible for keeping this space safe. Report violations, support each other, be kind.**
+*We're all responsible for keeping this space safe. Report violations, support each other, be kind.*
