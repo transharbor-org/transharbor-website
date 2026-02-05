@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Learn about TransHarbor - a community-owned social platform built by trans and nonbinary people, for trans and nonbinary people worldwide.
 ---
 
 **A community platform for trans and nonbinary people worldwide. Built by us, for us, owned by us, protected forever.**

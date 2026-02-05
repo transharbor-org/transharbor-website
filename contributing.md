@@ -2,6 +2,7 @@
 layout: page
 title: Contributing
 permalink: /contributing/
+description: Contribute to TransHarbor's open source codebase. Built with Flutter and PocketBase, using test-driven development practices.
 ---
 
 # Contributing Code

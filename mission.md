@@ -2,6 +2,7 @@
 layout: page
 title: Mission
 permalink: /mission/
+description: How TransHarbor's dual-entity structure and democratic governance protect our trans-centered mission forever - no CEO can sell out, no investors can change course.
 ---
 
 This page is about **mission** - how we built TransHarbor so our community-driven, trans-centered mission can never be compromised.

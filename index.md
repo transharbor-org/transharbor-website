@@ -1,5 +1,6 @@
 ---
 layout: page
+description: TransHarbor is a community-owned social platform built by trans and nonbinary people, for trans and nonbinary people worldwide.
 ---
 
 <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 2rem 1rem;">

@@ -2,6 +2,7 @@
 layout: page
 title: Safety
 permalink: /safety/
+description: How TransHarbor protects trans and nonbinary users from hostile platform takeovers, data exploitation, harassment, and government surveillance.
 ---
 
 The biggest threats to trans people online in much of the world aren't government surveillance. They're platforms getting sold to hostile owners, data being monetized, harassment campaigns, and incompetent moderation.

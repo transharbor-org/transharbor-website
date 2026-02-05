@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Service
 permalink: /terms/
+description: TransHarbor's Terms of Service - eligibility requirements, acceptable use, user responsibilities, and dispute resolution for our community platform.
 ---
 
 By using TransHarbor, you agree to these Terms of Service, our Community Guidelines, Privacy Policy, and Governance Structure.

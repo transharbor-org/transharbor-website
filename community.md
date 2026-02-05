@@ -2,6 +2,7 @@
 layout: page
 title: Community
 permalink: /community/
+description: TransHarbor's community guidelines and core principles for keeping our trans and nonbinary space safe, respectful, and welcoming.
 ---
 
 TransHarbor exists to serve trans and nonbinary people. These guidelines help keep this space safe.

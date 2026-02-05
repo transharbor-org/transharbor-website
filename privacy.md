@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
+description: TransHarbor's privacy policy - how we collect, use, and protect your data. User-owned nonprofit with no financial incentive to sell your information.
 ---
 
 As a user-owned nonprofit, we have no financial incentive to sell your data. Your data belongs to you, and we only use it to provide and improve TransHarbor.

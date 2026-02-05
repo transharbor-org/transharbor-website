@@ -2,6 +2,7 @@
 layout: page
 title: Meet Deirdre
 permalink: /deirdre/
+description: Meet Deirdre, TransHarbor's AI moderator who handles front-line content moderation and community support alongside human moderators.
 ---
 
 **Meet Deirdre, TransHarbor's AI moderator - named after Deirdre McCloskey, trans economist and scholar.**

@@ -2,6 +2,7 @@
 layout: page
 title: Volunteer
 permalink: /volunteer/
+description: Join TransHarbor's volunteer moderation team to help keep our trans and nonbinary community safe.
 ---
 
 **TransHarbor needs moderators to help keep our community safe.**
