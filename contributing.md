@@ -90,7 +90,7 @@ Don't test trivial stuff.
 
 **Repo:** [github.com/transharbor-org/transharbor](https://github.com/transharbor-org/transharbor)  
 **Issues:** [github.com/transharbor-org/transharbor/issues](https://github.com/transharbor-org/transharbor/issues)  
-**Questions:** [dev@transharbor.org](mailto:dev@transharbor.org)
+**Questions:** [support@transharbor.org](mailto:dev@transharbor.org)
 
 ---
 

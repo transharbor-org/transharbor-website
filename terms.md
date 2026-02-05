@@ -4,15 +4,13 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-# Terms of Service
-
-**Last Updated:** January 21, 2026
-
-By using TransHarbor, you agree to these Terms of Service, our [Community Guidelines](/guidelines), [Privacy Policy](/privacy), and [Governance Structure](/governance).
+By using TransHarbor, you agree to these Terms of Service, our Community Guidelines, Privacy Policy, and Governance Structure.
 
 ## About TransHarbor
 
 Wyoming Unincorporated Nonprofit Association (UNA) — no private owners or shareholders. User-owned, democratically-governed platform for trans and nonbinary people.
+
+Infrastructure managed to ISO 27001 security standards. Open source code. Mission-locked forever.
 
 ## Eligibility
 
@@ -22,7 +20,7 @@ Must be 18+, provide accurate registration info, maintain account security, and 
 
 **Registration:** Valid email, unique username (3-20 characters, cannot be changed), secure password
 
-**Security:** You're responsible for all account activity. Don't share credentials. Notify us immediately of unauthorized access.
+**Security:** You're responsible for all account activity. Don't share credentials. Notify us immediately of unauthorized access at security@transharbor.org
 
 **Email Verification:** Required for full functionality
 
@@ -30,7 +28,7 @@ Must be 18+, provide accurate registration info, maintain account security, and 
 
 **Posts:** Text posts (10-500 characters), public to all users, expire after 30 days (deleted after 90 days)
 
-**Direct Messaging:** Private between participants, not monitored unless reported
+**Direct Messaging:** Private between participants, encrypted at rest, not monitored unless reported
 
 **Profiles:** Public to other users, editable except username
 
@@ -50,14 +48,14 @@ You retain ownership. By posting, you grant TransHarbor a license to store, disp
 
 ## Prohibited
 
-- Harassment, bullying, threats
-- Hate speech or discrimination
-- Doxxing (sharing personal info without consent)
-- Explicit sexual content
-- Spam, scams, fraud
-- Impersonation
-- Platform abuse or hacking
-- Illegal activity
+* Harassment, bullying, threats
+* Hate speech or discrimination
+* Doxxing (sharing personal info without consent)
+* Explicit sexual content
+* Spam, scams, fraud
+* Impersonation
+* Platform abuse or hacking
+* Illegal activity
 
 See [Community Guidelines](/guidelines) for complete details.
 
@@ -67,9 +65,13 @@ Violations may result in warnings, content removal, moderation strikes, suspensi
 
 **Appeals:** Email moderation@transharbor.org (reviewed within 14 days)
 
-## Privacy
+**AI Moderation:** Front-line moderation handled by Deirdre (our AI moderator) with human oversight. See [Meet Deirdre](/deirdre/) for details.
 
-Your privacy is a protected core principle. See [Privacy Policy](/privacy). We never sell your data.
+## Privacy and Security
+
+Your privacy is a protected core principle. See [Privacy Policy](/privacy).
+
+We never sell your data. Our legal structure prohibits it. Data is encrypted at rest using hardware security modules (YubiHSM). Infrastructure managed to ISO 27001 bank-grade security standards.
 
 ## Account Deletion
 
@@ -83,11 +85,13 @@ Service provided "as is" without warranties. You're responsible for your interac
 
 ## Limitation of Liability
 
-To maximum extent permitted by law, TransHarbor and its organizers are not liable for indirect, incidental, or consequential damages, loss of data, service interruptions, or actions of other users. Damages limited to $100 USD.
+To maximum extent permitted by law, TransHarbor and its organizers are not liable for indirect, incidental, or consequential damages, loss of data, service interruptions, or actions of other users. Total liability limited to $100 USD.
 
 ## Changes to Terms
 
-Updates made through democratic governance process. Major changes require community discussion and voting. Continued use constitutes acceptance.
+Updates made through democratic governance process. Major changes require community discussion and voting. 
+
+We'll notify users of material changes via email and in-platform notification. Continued use constitutes acceptance.
 
 ## Termination
 
@@ -95,23 +99,33 @@ Updates made through democratic governance process. Major changes require commun
 
 **By Us:** For violations, illegal activity, 2+ years inactivity, or safety/security risks
 
-## Governing Law
+## Governing Law and Jurisdiction
 
-Governed by Wyoming and United States law.
+TransHarbor is hosted in the United States and governed by Wyoming and United States law.
+
+We're subject to US law enforcement requests. With valid warrants or subpoenas, we must comply. We'll fight overbroad requests and provide minimum data legally required. See [Privacy Policy](/privacy) for details.
 
 **Disputes:** Contact disputes@transharbor.org → mediation → binding arbitration in Wyoming (except small claims, IP protection, emergency relief)
 
 **No Class Actions:** Individual disputes only
 
+## International Users
+
+By using TransHarbor from outside the US, you consent to data transfer and processing in the United States under US law.
+
+## Open Source
+
+All TransHarbor code is open source and publicly auditable. If we fail you, fork it and start over.
+
+## Mission Lock
+
+Our trans-centered mission is constitutionally protected in Swiss law through our dual-entity structure. It cannot be changed without supermajority community vote. The platform cannot be sold, acquired, or pivoted to different purposes.
+
 ## Contact
 
 **General:** support@transharbor.org  
-**Legal:** legal@transharbor.org  
-**Disputes:** disputes@transharbor.org
 
 ---
 
 **TransHarbor is a Wyoming Unincorporated Nonprofit Association**  
 A democratic, user-owned platform for trans and nonbinary people
-
-*Last updated: January 21, 2026*
