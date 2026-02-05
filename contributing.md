@@ -5,7 +5,7 @@ permalink: /contributing/
 description: Contribute to TransHarbor's open source codebase. Built with Flutter and PocketBase, using test-driven development practices.
 ---
 
-# Contributing Code
+# Contribute Code
 
 **TransHarbor is open source (AGPL-3.0). We welcome contributions.**
 
