@@ -4,8 +4,6 @@ title: Mission
 permalink: /mission/
 ---
 
-## A Trans Platform That Can't Be Bought, Sold, or Compromised
-
 This page is about **mission** - how we built TransHarbor so our community-driven, trans-centered mission can never be compromised.
 
 ## How We Protected the Mission
